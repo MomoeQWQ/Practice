@@ -12,6 +12,7 @@ class Solution(object):
                 return [prevIndex, i]
             map[num]= i
         return[-1,-1]
-        
+
+callable
                 
                 
